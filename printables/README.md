@@ -1,6 +1,6 @@
 # Printable Parts
 
-All parts need to be printed once, with the exception of these:
+See `how_to_print.pdf` for printer settings. All parts need to be printed once, with the exception of these:
 
 |Part Name|Count|
 |-|-|
